@@ -1,4 +1,4 @@
-[Можно посмотреть этот сайт]([https://antonkld.github.io/1866847-sedona-35/])
+[Можно посмотреть этот сайт](https://antonkld.github.io/1866847-sedona-35/)
 
 * Студент: [Антон Кольцов](https://up.htmlacademy.ru/htmlcss/35/user/1866847).
 * Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima)
